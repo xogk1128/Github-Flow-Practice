@@ -33,6 +33,7 @@ function App() {
                 Click on the Vite and React logos to learn more!!!
             </p>
             <p className="read-the-docs">test1</p>
+            <p className="read-the-docs">test2</p>
         </>
     );
 }
